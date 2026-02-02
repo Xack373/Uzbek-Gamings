@@ -28,8 +28,8 @@ Agar siz ham haqiqiy geymer bo'lsangiz va doimiy ma'lumotlar oqimida bo'lishni i
 ## 📈 Statistika va Maqsadlar
 | Maqsad | Holat |
 | :--- | :--- |
-| 1,000 Obunachi | ✅ Bajarildi |
-| 5,000 Obunachi | ⏳ Jarayonda |
+| 5,000 Obunachi | ✅ Bajarildi |
+| 10,000 Obunachi | ⏳ Jarayonda |
 | O'z shaxsiy turnirimiz | 🚀 Rejada |
 
 ---
