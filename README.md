@@ -33,6 +33,19 @@ Agar siz ham haqiqiy geymer bo'lsangiz va doimiy ma'lumotlar oqimida bo'lishni i
 | O'z shaxsiy turnirimiz | 🚀 Rejada |
 
 ---
+## 🏷 Поисковые теги (SEO)
+
+Kanalimiz va kontentimizni oson topish uchun asosiy kalit so'zlar:
+
+| Yo'nalish | Kalit so'zlar (Keywords) |
+| :--- | :--- |
+| **Asosiy** | uzbek gamings, uzbek gaming, o'zbek geymers |
+| **O'yinlar** | pubg uzbekistan, dota 2 uzb, cs2 uzbekistan, o'yinlar olami |
+| **Tizimlar** | geymerlar kanali, telegram o'yinlar, uzbek games |
+| **Texnologiya** | pc yig'ish, geymerlar uchun maslahatlar, o'yin yangiliklari |
+| **SEO Tags** | #uzbekgamings #uzbgaming #гейминг_узбекистан #игры_узб |
+
+---
 
 ### 💬 Shiorimiz:
 > "O'yin bu shunchaki vaqt o'tkazish emas, bu alohida bir dunyo!"
